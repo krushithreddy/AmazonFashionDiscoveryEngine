@@ -17,5 +17,5 @@ Color of the product
 Type of the product
 Image of the apparel , etc...
 
-##Data Source 
+## Data Source 
 amazon.com
